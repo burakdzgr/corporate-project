@@ -6,3 +6,6 @@
   <router-view />
 </template>
 
+<style>
+  @import url("./assets/tailwind.css");
+</style>
