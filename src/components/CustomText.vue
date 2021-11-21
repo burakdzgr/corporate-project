@@ -15,15 +15,8 @@ export default {
         },
         size: {
             type: String,
-            default: 'normal',
-            validator: function(value){
-                return [
-                    'normal',
-                    'small',
-                    'xsmall',
-                    'xxsmal'
-                ].indexOf(value) !== -1
-            } // normal:14, small:12, xsmall: 11, xxsmall: 10
+            default: 'normal'
+            
         }
     }
 }
