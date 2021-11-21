@@ -1,1 +1,1 @@
-# vue-clone-instagram
+# corporate-project
